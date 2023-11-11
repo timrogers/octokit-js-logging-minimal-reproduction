@@ -1,0 +1,1 @@
+This repository contains a minimal reproduction for the [Octokit.js](https://github.com/octokit/octokit.js) bug reported in https://github.com/octokit/octokit.js/issues/2571.
